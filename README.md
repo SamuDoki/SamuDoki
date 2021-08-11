@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Samu's github stats](https://github-readme-stats.vercel.app/api?username=SamuDoki) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuDoki)](https://github.com/SamuDoki/github-readme-stats)
 
 Por enquanto estou me aprofundando em Py, mas em breve estarei aprofundando em Html/CSS e, consequentemente em JavaScript
