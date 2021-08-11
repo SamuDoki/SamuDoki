@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Samu's github stats](https://github-readme-stats.vercel.app/api?username=SamuDoki) 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuDoki)](https://github.com/SamuDoki/github-readme-stats)
 
 Por enquanto estou me aprofundando em Py, mas em breve estarei aprofundando em Html/CSS e, consequentemente em JavaScript
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
