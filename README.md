@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Samu's github stats](https://github-readme-stats.vercel.app/api?username=SamuDoki) 
+![Samu's github stats](https://github-readme-stats.vercel.app/api?username=SamuDoki&show_icons=true&theme=radical) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuDoki)](https://github.com/SamuDoki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuDoki&show_icons=true&theme=radical)](https://github.com/SamuDoki/github-readme-stats)
 
 Por enquanto estou me aprofundando em Py, mas em breve estarei aprofundando em Html/CSS e, consequentemente em JavaScript
 
